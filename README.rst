@@ -543,6 +543,10 @@ common user interface elements are:
 * Refresh and stop buttons for refreshing or stopping the loading of
   current documents
 * Home button that takes you to your home page
+*Tabs: Tabs revolutionized browsing by allowing users to open multiple web pages within the same browser window. Each tab represents a separate web page, making it easy to switch between different sites without cluttering the screen.
+*History: Browsers maintain a history of recently visited web pages, allowing users to revisit sites they've accessed in the past. The history feature can help users keep track of their browsing activities and quickly revisit previously viewed content.
+*Bookmarks Bar: In addition to bookmarking options, browsers often include a bookmarks bar where users can save frequently visited websites for easy access. This customizable bar provides quick links to favorite sites, improving overall browsing efficiency.
+*Extensions/Add-ons: Modern browsers support extensions or add-ons, which are small software modules that enhance browser functionality. Extensions can provide various features like ad-blocking, password managers, language translation, and more, tailored to 
 
 **Browser High-Level Structure**
 
